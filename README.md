@@ -1,1 +1,3 @@
-# Exercise-4_Rafi_Ghita_Preprocessing-Text
+Tugas chapter 4 Mata Kuliah Pemrosesan Teks
+Muhammad Rafi Pratama (035)
+Ghita Natasha Putri (023)
